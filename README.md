@@ -6,7 +6,9 @@
   <ol>
     <li>
       <a href="#alternating-the-elements">Alternating the Elements</a>
-      ![image](https://github.com/zehrarhez/alternating_elements/assets/86465805/142bf416-6ab0-440d-badb-9adb509d6730)
+      <body>
+    <img src="https://raw.githubusercontent.com/zehrarhez/alternating_elements/main/assets/86465805/142bf416-6ab0-440d-badb-9adb509d6730" alt="Image description">
+      </body>
     </li>
     <li>
       <a href="#alternating-the-elements-by-enumerating">Alternating the Elements by Enumerating</a>
