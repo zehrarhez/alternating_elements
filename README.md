@@ -6,8 +6,8 @@
   <ol>
     <li>
       <a href="#alternating-the-elements">Alternating the Elements</a>
-      <body>
-    <img src="https://raw.githubusercontent.com/zehrarhez/alternating_elements/main/assets/86465805/142bf416-6ab0-440d-badb-9adb509d6730" alt="Image description">
+      <body><br>
+    <img src="https://raw.githubusercontent.com/zehrarhez/alternating_elements/main/assets/86465805/142bf416-6ab0-440d-badb-9adb509d6730" alt="Output Image">
       </body>
     </li>
     <li>
