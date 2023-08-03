@@ -1,7 +1,6 @@
 ## ALTERNATING
 
 
-  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#alternating-the-elements">Alternating the Elements</a>
